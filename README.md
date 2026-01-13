@@ -876,7 +876,7 @@ Visit **http://localhost:3000** (after running `npm run dev`)
 
 ### Homepage - Salary Submission
 
-![PayPool Homepage](frontend/public/Screenshot%202026-01-13%20at%2011.58.45%20AM.png)
+![PayPool Homepage](frontend/public/Screenshot%202026-01-13%20at%2011.58.54%20AM.png)
 
 *Clean, intuitive interface for salary submission with city and position selection*
 
@@ -884,7 +884,7 @@ Visit **http://localhost:3000** (after running `npm run dev`)
 
 ### Wallet Connection
 
-![Connect Wallet Interface](frontend/public/Screenshot%202026-01-13%20at%2011.58.54%20AM.png)
+![Connect Wallet Interface](frontend/public/Screenshot%202026-01-13%20at%2011.58.45%20AM.png)
 
 *RainbowKit wallet connection modal for MetaMask and other Web3 wallets*
 
@@ -892,7 +892,7 @@ Visit **http://localhost:3000** (after running `npm run dev`)
 
 ### Salary Input & Encryption
 
-![Salary Slider with FHE Encryption](frontend/public/Screenshot%202026-01-13%20at%2011.59.28%20AM.png)
+![Salary Slider with FHE Encryption](frontend/public/Screenshot%202026-01-13%20at%2011.59.41%20AM.png)
 
 *Interactive salary slider with real-time peer count and privacy guarantee badge - your salary is encrypted client-side before submission*
 
@@ -900,7 +900,7 @@ Visit **http://localhost:3000** (after running `npm run dev`)
 
 ### Results Dashboard
 
-![Percentile Results Page](frontend/public/Screenshot%202026-01-13%20at%2011.59.41%20AM.png)
+![Percentile Results Page](frontend/public/Screenshot%202026-01-13%20at%2011.59.28%20AM.png)
 
 *Personalized analytics showing percentile rank, market rate, and status indicators - all computed on encrypted data*
 
