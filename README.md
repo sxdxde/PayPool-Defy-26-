@@ -872,6 +872,40 @@ Visit **http://localhost:3000** (after running `npm run dev`)
 
 ---
 
+## 📸 Screenshots
+
+### Homepage - Salary Submission
+
+![PayPool Homepage](screenshots/01-homepage.png)
+
+*Clean, intuitive interface for salary submission with city and position selection*
+
+---
+
+### Wallet Connection
+
+![Connect Wallet Interface](screenshots/02-wallet-connection.png)
+
+*RainbowKit wallet connection modal for MetaMask and other Web3 wallets*
+
+---
+
+### Salary Input & Encryption
+
+![Salary Slider with FHE Encryption](screenshots/03-salary-input.png)
+
+*Interactive salary slider with real-time peer count and privacy guarantee badge - your salary is encrypted client-side before submission*
+
+---
+
+### Results Dashboard
+
+![Percentile Results Page](screenshots/04-results-dashboard.png)
+
+*Personalized analytics showing percentile rank, market rate, and status indicators - all computed on encrypted data*
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! Areas of interest:
